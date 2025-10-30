@@ -68,9 +68,17 @@ Enhance interaction and engagement in lower-rated events.
 
 Maintain a regular feedback collection system for continuous improvement.
 
-📈 Visuals Included
+📈 Visuals Included :
 
 📊 Bar Chart: Average event ratings
+
+🥧 Pie Chart: Sentiment distribution
+
+☁️ Word Cloud: Most common feedback words
+
+
+
+
 
 🥧 Pie Chart: Sentiment distribution
 
