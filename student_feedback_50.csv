@@ -1,0 +1,51 @@
+Student_ID,Event_Name,Department,Rating,Feedback_Comment
+S1000,Hackathon,ME,4,"Average experience, nothing special."
+S1001,Seminar on Data Science,ME,1,Could use more interaction sessions.
+S1002,Workshop on AI,ME,4,"Great event, very well organized!"
+S1003,Seminar on Data Science,CE,2,"Great event, very well organized!"
+S1004,Seminar on Data Science,ECE,1,"Average experience, nothing special."
+S1005,Cultural Fest,IT,5,"Average experience, nothing special."
+S1006,Workshop on AI,ME,3,Excellent presentation and coordination.
+S1007,Workshop on AI,CSE,4,"Average experience, nothing special."
+S1008,Workshop on AI,ME,3,The event was okay but could be better.
+S1009,Seminar on Data Science,CSE,3,Could use more interaction sessions.
+S1010,Hackathon,CSE,1,Loved it! Very informative.
+S1011,Workshop on AI,ME,3,"Venue was great, management was smooth."
+S1012,Seminar on Data Science,CE,5,"Average experience, nothing special."
+S1013,Cultural Fest,CSE,3,Too long and not very engaging.
+S1014,Hackathon,CSE,1,"Great event, very well organized!"
+S1015,Cultural Fest,ME,5,The event was okay but could be better.
+S1016,Hackathon,CSE,2,Wonderful learning opportunity!
+S1017,Seminar on Data Science,CSE,3,"Venue was great, management was smooth."
+S1018,Tech Fest,ME,1,Loved it! Very informative.
+S1019,Hackathon,ME,2,"Venue was great, management was smooth."
+S1020,Cultural Fest,IT,2,"Average experience, nothing special."
+S1021,Seminar on Data Science,CE,4,Excellent presentation and coordination.
+S1022,Hackathon,CE,5,"Great event, very well organized!"
+S1023,Tech Fest,CSE,3,"Great event, very well organized!"
+S1024,Tech Fest,CE,1,Wonderful learning opportunity!
+S1025,Workshop on AI,CSE,4,Excellent presentation and coordination.
+S1026,Workshop on AI,IT,5,Could use more interaction sessions.
+S1027,Cultural Fest,ME,4,"Good experience, learned a lot."
+S1028,Hackathon,ME,5,The event was okay but could be better.
+S1029,Hackathon,ME,5,"Great event, very well organized!"
+S1030,Workshop on AI,CE,3,Too long and not very engaging.
+S1031,Hackathon,IT,5,"Great event, very well organized!"
+S1032,Hackathon,CE,4,"Venue was great, management was smooth."
+S1033,Tech Fest,CE,5,"Great event, very well organized!"
+S1034,Workshop on AI,IT,3,"Great event, very well organized!"
+S1035,Seminar on Data Science,IT,3,"Good experience, learned a lot."
+S1036,Workshop on AI,IT,4,"Good experience, learned a lot."
+S1037,Seminar on Data Science,IT,2,Loved it! Very informative.
+S1038,Tech Fest,ME,2,Could use more interaction sessions.
+S1039,Cultural Fest,ECE,5,Too long and not very engaging.
+S1040,Hackathon,ECE,1,"Great event, very well organized!"
+S1041,Tech Fest,IT,5,"Great event, very well organized!"
+S1042,Hackathon,ECE,4,The event was okay but could be better.
+S1043,Cultural Fest,ECE,4,"Good experience, learned a lot."
+S1044,Cultural Fest,IT,4,Too long and not very engaging.
+S1045,Tech Fest,ECE,4,Wonderful learning opportunity!
+S1046,Cultural Fest,CE,4,Loved it! Very informative.
+S1047,Seminar on Data Science,CSE,3,Could use more interaction sessions.
+S1048,Cultural Fest,CSE,2,Excellent presentation and coordination.
+S1049,Hackathon,IT,4,Could use more interaction sessions.
